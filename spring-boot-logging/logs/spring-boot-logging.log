@@ -1,0 +1,43 @@
+2023-02-12 21:20:43,675 INFO org.springframework.boot.StartupInfoLogger [main] Starting LogApplication on 192.168.1.42 with PID 96854 (/Users/mustafakucukkoc/Desktop/spring-boot-logging/target/classes started by mustafakucukkoc in /Users/mustafakucukkoc/Desktop/spring-boot-logging)
+2023-02-12 21:20:43,676 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.2.6.RELEASE, Spring v5.2.5.RELEASE
+2023-02-12 21:20:43,677 INFO org.springframework.boot.SpringApplication [main] The following profiles are active: prod
+2023-02-12 21:20:45,729 INFO org.springframework.boot.StartupInfoLogger [main] Started LogApplication in 2.874 seconds (JVM running for 3.501)
+2023-02-12 21:20:46,141 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:46,736 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:47,154 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:47,742 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:48,159 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:48,747 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:49,165 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:49,752 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:50,166 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:50,760 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:51,172 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:51,766 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:52,177 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:52,771 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:53,183 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:53,777 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:54,188 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:54,782 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:55,194 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:55,785 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:56,197 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:56,787 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:57,198 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:57,791 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:58,202 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:58,805 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:20:59,209 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:20:59,811 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:00,214 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:21:00,815 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:01,220 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:21:01,816 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:02,228 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:21:02,819 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:03,234 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:21:03,826 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:04,256 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
+2023-02-12 21:21:04,832 DEBUG logging.LogApplication$Clock [Thread-5] Debug Calisti
+2023-02-12 21:21:05,261 DEBUG logging.LogApplication$Clock [Thread-1] Debug Calisti
